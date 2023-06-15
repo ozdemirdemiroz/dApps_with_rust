@@ -3,6 +3,8 @@ description: >-
   Bilginin paylaştıkça çoğaldığına inanıyorum. 2017'den beri kazandığım öğretmenlik deneyimlerimi de paylaştığım bir içeriğe dönüştürmeyi amaçlıyorum. İstediğim şey sadece öğretmek değil. Öğrendiklerini; öğretmeyi öğretebilmek. Herkesin katkıda bulunabildiği ve zaman geçtikçe buradan öğrendikleri ile başkalarını da geliştirebilecek insanlar için...
 ---
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tugce.yalc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tugce-yalcin-51b807230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0phoenix_) 
+
 # I. Giriş
 
 ## A. Hedeflerimiz ve katılımcı profili
