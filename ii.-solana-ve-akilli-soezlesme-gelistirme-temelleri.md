@@ -49,46 +49,45 @@ PoH, enerji tüketimi açısından verimlidir ve daha hızlı blok onaylama sür
 
 ## _**B. Akıllı Sözleşme Geliştirme Süreci Akıllı sözleşme geliştirme süreci, Solana'da dApp'ler oluşturmanın temel adımlarını içerir. İşte akıllı sözleşme geliştirme sürecinin temel aşamaları:**_
 
-1.  **Gereksinim Analizi:** İlk adım, geliştirmek istediğiniz dApp için işlevsel ve teknik gereksinimleri belirlemektir. Bu aşamada, hedeflenen kullanıcı deneyimi, güvenlik önlemleri ve diğer faktörleri göz önünde bulundurmanız önemlidir. Örnek olarak, token takası veya basit bir oy sistemi gibi belirli bir işlevi olan bir dApp geliştirmeyi hedefleyebilirsiniz.
+### 1.  **Gereksinim Analizi:** 
+İlk adım, geliştirmek istediğiniz dApp için işlevsel ve teknik gereksinimleri belirlemektir. Bu aşamada, hedeflenen kullanıcı deneyimi, güvenlik önlemleri ve diğer faktörleri göz önünde bulundurmanız önemlidir. Örnek olarak, token takası veya basit bir oy sistemi gibi belirli bir işlevi olan bir dApp geliştirmeyi hedefleyebilirsiniz.
 
 
-2.  **Tasarım ve Planlama:** Bu aşamada, belirlenen gereksinimlere dayanarak dApp'inizin tasarımını yapmanız gerekmektedir. Akıllı sözleşmelerin nasıl etkileşimde bulunacağını ve kullanıcı arayüzünün nasıl olacağını planlayın. Ayrıca, geliştirme sürecini planlamak için bir zaman çizelgesi oluşturun ve gerekli kaynakları belirleyin.
+### 2.  **Tasarım ve Planlama:** 
+Bu aşamada, belirlenen gereksinimlere dayanarak dApp'inizin tasarımını yapmanız gerekmektedir. Akıllı sözleşmelerin nasıl etkileşimde bulunacağını ve kullanıcı arayüzünün nasıl olacağını planlayın. Ayrıca, geliştirme sürecini planlamak için bir zaman çizelgesi oluşturun ve gerekli kaynakları belirleyin.
 
 
-3.  **Akıllı Sözleşme Geliştirme:** Bu aşama, akıllı sözleşmelerin kodunu yazmaya başladığınız aşamadır. Solana'da akıllı sözleşme geliştirmek için Solidity veya Rust gibi dilleri kullanabilirsiniz. Akıllı sözleşmelerin belirlenen gereksinimleri karşılayacak şekilde kodunu yazın ve dikkatlice test edin. Geliştirme sürecinde, Solidity veya Rust gibi dillerin söz sintaksına ve akıllı sözleşme tasarım prensiplerine hakim olmanız önemlidir.
+### 3.  **Akıllı Sözleşme Geliştirme:** 
+Bu aşama, akıllı sözleşmelerin kodunu yazmaya başladığınız aşamadır. Solana'da akıllı sözleşme geliştirmek için Solidity veya Rust gibi dilleri kullanabilirsiniz. Akıllı sözleşmelerin belirlenen gereksinimleri karşılayacak şekilde kodunu yazın ve dikkatlice test edin. Geliştirme sürecinde, Solidity veya Rust gibi dillerin söz sintaksına ve akıllı sözleşme tasarım prensiplerine hakim olmanız önemlidir.
 
 
-4.  **Test Etme ve Deneme:** Geliştirdiğiniz akıllı sözleşmeleri test etmek ve hataları tespit etmek için kapsamlı bir test süreci uygulayın. Çeşitli senaryoları simüle ederek akıllı sözleşmelerin doğru çalıştığından emin olun. Testlerinizi Solana test ağı üzerinde veya yerel bir geliştirme ortamında gerçekleştirebilirsiniz.
+### 4.  **Test Etme ve Deneme:** 
+Geliştirdiğiniz akıllı sözleşmeleri test etmek ve hataları tespit etmek için kapsamlı bir test süreci uygulayın. Çeşitli senaryoları simüle ederek akıllı sözleşmelerin doğru çalıştığından emin olun. Testlerinizi Solana test ağı üzerinde veya yerel bir geliştirme ortamında gerçekleştirebilirsiniz.
 
 
-5. **Dağıtım ve Yayınlama:** Akıllı sözleşmelerinizi Solana ağına dağıtma ve dApp'inizi yayınlama aşamasına gelmişsinizdir. Bu aşamada, geliştirilen akıllı sözleşmeleri Solana ağına entegre ederek kullanılabilir hale getirin. Aynı zamanda, kullanıcılar için uygun bir arayüz veya cüzdan sağlamayı da unutmayın.
+### 5. **Dağıtım ve Yayınlama:** 
+Akıllı sözleşmelerinizi Solana ağına dağıtma ve dApp'inizi yayınlama aşamasına gelmişsinizdir. Bu aşamada, geliştirilen akıllı sözleşmeleri Solana ağına entegre ederek kullanılabilir hale getirin. Aynı zamanda, kullanıcılar için uygun bir arayüz veya cüzdan sağlamayı da unutmayın.
 
 Bu basit kılavuz, Solana'da akıllı sözleşme geliştirme sürecinin genel adımlarını içermektedir. Her adımı dikkatlice takip ederek, başlangıç seviyesinde dApp'ler oluşturabilir ve Solana ekosistemine katkıda bulunabilirsiniz.
 
 ## C. Solana'da dApp'lerin İşleyişi ve Avantajları
 
-1.  **Dağıtım:**
+### 1.  **Dağıtım:**
+
+* Akıllı sözleşmeyi Solana ağına dağıtın: dApp'inizin temel yapı taşı olan akıllı sözleşmeyi, Solana ağına dağıtmanız gerekmektedir. Bu, sözleşmenizin ağ üzerinde çalışmasını ve kullanılabilir hale gelmesini sağlar.
+* Akıllı sözleşmeyi doğrulayın ve kullanıcılar tarafından kullanılabilir hale getirin: Akıllı sözleşmenizin doğruluğunu ve güvenliğini sağlamak için gerekli adımları atın. Ardından, kullanıcılarınızın akıllı sözleşmeyi kullanabilmesi için onu kullanıcı dostu bir şekilde erişilebilir hale getirin.
+* Güvenlik önlemleri: Akıllı sözleşmenizin güvenli bir şekilde çalıştığından emin olmak için gerekli güvenlik önlemlerini alın. Zayıf noktaları belirleyin ve olası saldırıları önlemek için gereken tedbirleri alın.
 
 
+### 2.  **dApp'lerin İşleyişi:**
 
-    * Akıllı sözleşmeyi Solana ağına dağıtın: dApp'inizin temel yapı taşı olan akıllı sözleşmeyi, Solana ağına dağıtmanız gerekmektedir. Bu, sözleşmenizin ağ üzerinde çalışmasını ve kullanılabilir hale gelmesini sağlar.
-    * Akıllı sözleşmeyi doğrulayın ve kullanıcılar tarafından kullanılabilir hale getirin: Akıllı sözleşmenizin doğruluğunu ve güvenliğini sağlamak için gerekli adımları atın. Ardından, kullanıcılarınızın akıllı sözleşmeyi kullanabilmesi için onu kullanıcı dostu bir şekilde erişilebilir hale getirin.
-    * Güvenlik önlemleri: Akıllı sözleşmenizin güvenli bir şekilde çalıştığından emin olmak için gerekli güvenlik önlemlerini alın. Zayıf noktaları belirleyin ve olası saldırıları önlemek için gereken tedbirleri alın.
-
-
-2.  **dApp'lerin İşleyişi:**
+* Akıllı sözleşmelerin dApp'lerle etkileşimi: Akıllı sözleşmeler, dApp'lerle etkileşimde bulunarak kullanıcıların işlemleri gerçekleştirmesini sağlar. Bu etkileşim, kullanıcıların dApp'leri kullanabilmesi ve işlemleri gerçekleştirebilmesi için önemlidir.
+* Kullanıcı deneyimi: Kullanıcılarınıza dApp'leri nasıl kullanacaklarını ve işlemleri nasıl gerçekleştireceklerini açıklayın. Kullanıcı dostu bir arayüz sunarak kullanıcı deneyimini iyileştirin ve dApp'in kullanıcılarını çekici kılın.
+* Blokzincir üzerindeki değişiklikler: Solana ağındaki blokzincir üzerinde gerçekleşen değişikliklerin, dApp'lerin çalışmasına nasıl yansıdığını anlatın. Blokzincirdeki verilerin güncellenmesi ve işlemlerin doğrulanması gibi işlemler dApp'lerin işleyişini etkileyebilir.
 
 
+### 3.  **Avantajlar:**
 
-    * Akıllı sözleşmelerin dApp'lerle etkileşimi: Akıllı sözleşmeler, dApp'lerle etkileşimde bulunarak kullanıcıların işlemleri gerçekleştirmesini sağlar. Bu etkileşim, kullanıcıların dApp'leri kullanabilmesi ve işlemleri gerçekleştirebilmesi için önemlidir.
-    * Kullanıcı deneyimi: Kullanıcılarınıza dApp'leri nasıl kullanacaklarını ve işlemleri nasıl gerçekleştireceklerini açıklayın. Kullanıcı dostu bir arayüz sunarak kullanıcı deneyimini iyileştirin ve dApp'in kullanıcılarını çekici kılın.
-    * Blokzincir üzerindeki değişiklikler: Solana ağındaki blokzincir üzerinde gerçekleşen değişikliklerin, dApp'lerin çalışmasına nasıl yansıdığını anlatın. Blokzincirdeki verilerin güncellenmesi ve işlemlerin doğrulanması gibi işlemler dApp'lerin işleyişini etkileyebilir.
-
-
-3.  **Avantajlar:**
-
-
-
-    * Hızlı işlem onayları ve ölçeklenebilirlik: Solana'nın hızlı işlem onayları ve ölçeklenebilirlik avantajlarından bahsedin. Bu, dApp'lerin hızlı ve etkili bir şekilde çalışmasını sağlar ve kullanıcı deneyimini iyileştirir.
-    * Düşük maliyetler ve düşük işlem ücretleri: Solana'nın düşük maliyetler ve düşük işlem ücretleri, dApp geliştiricileri için önemli bir avantajdır. Düşük maliyetler, dApp'lerin daha ekonomik bir şekilde geliştirilmesini ve işletilmesini sağlar.
-    * Gelişmiş programlama yetenekleri: Solana, gelişmiş programlama yetenekleri sunar ve farklı programlama dillerini destekler. Bu, geliştiricilerin dApp'lerini daha esnek bir şekilde oluşturmasını ve özelleştirmesini sağlar.
+* Hızlı işlem onayları ve ölçeklenebilirlik: Solana'nın hızlı işlem onayları ve ölçeklenebilirlik avantajlarından bahsedin. Bu, dApp'lerin hızlı ve etkili bir şekilde çalışmasını sağlar ve kullanıcı deneyimini iyileştirir.
+* Düşük maliyetler ve düşük işlem ücretleri: Solana'nın düşük maliyetler ve düşük işlem ücretleri, dApp geliştiricileri için önemli bir avantajdır. Düşük maliyetler, dApp'lerin daha ekonomik bir şekilde geliştirilmesini ve işletilmesini sağlar.
+* Gelişmiş programlama yetenekleri: Solana, gelişmiş programlama yetenekleri sunar ve farklı programlama dillerini destekler. Bu, geliştiricilerin dApp'lerini daha esnek bir şekilde oluşturmasını ve özelleştirmesini sağlar.
